@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/vgcpaulino">
+  <img height="137px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgcpaulino&layout=compact&text_color=daf7dc&bg_color=151515" />
+</a>
